@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [1672-richest-customer-wealth](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

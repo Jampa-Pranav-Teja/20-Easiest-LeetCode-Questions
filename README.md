@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1480-running-sum-of-1d-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
@@ -66,8 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

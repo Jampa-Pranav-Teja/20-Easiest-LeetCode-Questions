@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [1688-count-of-matches-in-tournament](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1688-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |

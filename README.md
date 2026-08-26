@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2469-convert-the-temperature) |
 | [2413-smallest-even-multiple](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2413-smallest-even-multiple) |
 | [1486-xor-operation-in-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |

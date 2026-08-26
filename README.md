@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2652-sum-multiples](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2652-sum-multiples) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Array
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->

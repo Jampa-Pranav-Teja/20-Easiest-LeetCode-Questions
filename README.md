@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2652-sum-multiples](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2652-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |

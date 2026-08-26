@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2652-sum-multiples](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2652-sum-multiples) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
 | ------- |

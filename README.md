@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jampa-Pranav-Teja/25-Easiest-LeetCode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->

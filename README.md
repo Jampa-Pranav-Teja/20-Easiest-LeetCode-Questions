@@ -1,5 +1,5 @@
-# 25-Easiest-LeetCode-Questions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 20-Easiest-LeetCode-Questions
+20 Easiest Questions On Leetcode...
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
